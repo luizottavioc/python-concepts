@@ -1,6 +1,6 @@
 fileTxt = open('/content/txt.txt', 'r')
 
-# value of file:
+# text of file:
 # mouth//spent//revenue//responsible employee//value of biggest unqique spent//name of client
 #
 # april//2000//2300//Luiz//680//Gerdau
