@@ -1,6 +1,6 @@
 # PythonConcepts 🐍
 <hr>
-Python exercises for practice of some concepts. Manipulation of text files, API data consumption, API REST.
+Python exercises to practice some concepts. Manipulation of text files, API data consumption, API REST.
 
 - <b> Covid data in Brazil: </b> <br>
  Consuption of covid data in Brazil from "disease.sh" API and treatment of the data so that it appears in a more visible way for users <br>
