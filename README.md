@@ -1,6 +1,6 @@
 # PythonConcepts 🐍
 <hr>
-Python exercises to practice some concepts. Manipulation of text files, API data consumption, API REST.
+Python exercises to practice some concepts. Manipulation of text files, API data consumption, API REST, Data Analysis.
 
 - <b> Covid data in Brazil: </b> <br>
  Consuption of covid data in Brazil from "disease.sh" API and treatment of the data so that it appears in a more visible way for users <br>
@@ -25,6 +25,10 @@ Python exercises to practice some concepts. Manipulation of text files, API data
  - <b> Reading a file of CEPs </b> <br>
  A file containing a month's data from a company is read and the data is processed so that it appears more visible for users <br>
  <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/readingFile.py"> Click here to acess code</a>
+ 
+  - <b> Basics Concepts </b> <br>
+ A page of exercises about initial concepts in python. Jupyter notebook (just portuguese lenguage) <br>
+ <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/1_intro_python.ipynb"> Click here to acess code</a>
 
 
 
