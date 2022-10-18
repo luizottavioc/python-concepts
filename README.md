@@ -26,7 +26,7 @@ Python exercises to practice some concepts. Manipulation of text files, API data
  A file containing a month's data from a company is read and the data is processed so that it appears more visible for users <br>
  <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/readingFile.py"> Click here to acess code</a>
  
-  - <b> Basics Concepts </b> <br>
+  - <b> Basic Concepts </b> <br>
  A page of exercises about initial concepts in python. Jupyter notebook (just portuguese lenguage) <br>
  <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/1_intro_python.ipynb"> Click here to acess code</a>
 
