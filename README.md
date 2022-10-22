@@ -27,8 +27,9 @@ Python exercises to practice some concepts. Manipulation of text files, API data
  <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/readingFile.py"> Click here to acess code</a>
  
   - <b> Basic Concepts </b> <br>
- A page of exercises about initial concepts in python. Jupyter notebook (just portuguese lenguage) <br>
- <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/1_intro_python.ipynb"> Click here to acess code</a>
+ Pages of exercises about initial concepts in Python (just portuguese lenguage). <br>
+ <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/1_intro_python.ipynb"> Click here to acess the first code</a>
+ <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/2_estruturas_controle_python.ipynb"> Click here to acess the second code</a>
 
 
 
