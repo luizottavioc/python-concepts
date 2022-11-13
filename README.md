@@ -4,7 +4,7 @@ Python exercises to practice some concepts. API consumption, API REST, Data Anal
 
  - <b> Numpy </b> <br>
  Jupyter notebook including exercises about Numpy (just portuguese lenguage). <br>
- <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/1_numpy.ipynb"> Click here to acess the code</a> <br>
+ <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/1_numpy.ipynb"> Click here to acess code</a> <br>
 
 - <b> Covid data in Brazil: </b> <br>
  Consuption of covid data in Brazil from "disease.sh" API and treatment of the data so that it appears in a more visible way for users <br>
