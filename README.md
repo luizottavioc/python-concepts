@@ -1,12 +1,16 @@
 # PythonConcepts 🐍
 <hr>
-Python exercises to practice some concepts. API consumption, API REST, Data Analysis, text files manipulation.
+Python exercises to practice some concepts. API consumption, API REST, Libraries, Data Analysis and text files manipulation.
+
+- <b> Pandas </b> <br>
+ Jupyter notebook including exercises about Pandas usage (just portuguese lenguage). <br>
+ <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/3_pandas.ipynb"> Click here to acess code</a> <br>
 
  - <b> Numpy </b> <br>
- Jupyter notebook including exercises about Numpy (just portuguese lenguage). <br>
+ Jupyter notebook including exercises about Numpy usage (just portuguese lenguage). <br>
  <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/1_numpy.ipynb"> Click here to acess code</a> <br>
 
-- <b> Covid data in Brazil: </b> <br>
+- <b> Brazil's Covid-19 data: </b> <br>
  Consuption of covid data in Brazil from "disease.sh" API and treatment of the data so that it appears in a more visible way for users <br>
  <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/APICons-CovidNumbers.py"> Click here to acess code</a>
 
