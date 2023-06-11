@@ -37,8 +37,8 @@ Python exercises to practice some concepts. API consumption, API REST, Libraries
  
   - <b> Basic Concepts </b> <br>
  Jupyter notebook including exercises pages about initial concepts in Python (just portuguese lenguage). <br>
- <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/1_intro_python.ipynb"> Click here to access the first code</a> <br>
- <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/2_estruturas_controle_python.ipynb"> Click here to access the second code</a>
+ <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/ex-Intro1.ipynb"> Click here to access the first code</a> <br>
+ <a href="https://github.com/luizottavioc/PythonConcepts/blob/main/ex-Intro2.ipynb"> Click here to access the second code</a>
 
 
 
